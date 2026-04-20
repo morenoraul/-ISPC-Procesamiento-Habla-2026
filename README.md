@@ -12,5 +12,5 @@ Portafolio de proyectos de la materia Técnicas de Procesamiento del Habla - TSC
 - **Natural Language Processing (NLP)**
 - **Deep Learning**
 - Procesamiento de voz y texto
-- Modelos aplicados a asistentes virtuales y análisis del lenguaj
+- Modelos aplicados a asistentes virtuales y análisis del lenguaje
 
